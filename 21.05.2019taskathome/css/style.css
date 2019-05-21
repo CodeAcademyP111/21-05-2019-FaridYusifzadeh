@@ -1,0 +1,13 @@
+#button{
+    margin-top: 30px;
+   margin-left: 15px; 
+   position: absolute;
+   border-radius: 6px;
+}
+#input{
+    margin-top: 30px;
+    margin-left: 162px; 
+    border:2px solid blue; 
+ position: relative;
+ border-radius: 6px;
+}
